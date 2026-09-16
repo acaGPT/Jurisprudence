@@ -519,22 +519,22 @@ All components must be attempted to pass the course. The mid-term essay develops
 
 ### 第六部分 · 现实主义与社会学进路（Part VI — Realism and Sociological Approaches）
 
-**25. 法律形式主义对法律现实主义** —— 形式主义的机械司法观与兰代尔的法律科学；现实主义对规则决定论与“自动售货机式”司法的批判；演绎推理的限度与法官实际如何裁判。
+**25. 法律形式主义对法律现实主义** —— 兰代尔的法律科学理想与判例教学法：法律作为由少数基本原则构成的体系，经由判例归纳习得；庞德对“机械法理学”的批判；霍姆斯“法律的生命从来不是逻辑，而是经验”；现实主义对规则决定论的怀疑——书本上的法律与行动中的法律；格雷对兰代尔正统的重构与肖尔为形式主义的辩护。
 
-**25. Legal Formalism vs. Legal Realism** — The formalist picture of mechanical jurisprudence and Langdell's legal science; the realist critique of rule determinacy and "slot-machine" adjudication; the limits of deductive reasoning and how judges actually decide cases.
+**25. Legal Formalism vs. Legal Realism** — Langdell's ideal of law as a science and the case method: law as a system of a few fundamental principles, learned inductively through cases; Pound's critique of "mechanical jurisprudence"; Holmes's dictum that "the life of the law has not been logic: it has been experience"; realist scepticism about rule determinacy — law in books versus law in action; Grey's reconstruction of the Langdellian orthodoxy and Schauer's defence of formalism.
 
 *延伸阅读（Further reading）：*
 - [Legal Realism (Wex, Cornell LII)](https://www.law.cornell.edu/wex/legal_realism)
 - [Naturalism in Legal Philosophy (SEP)](https://plato.stanford.edu/entries/lawphil-naturalism/)
-- [The Nature of Law (SEP)](https://plato.stanford.edu/entries/lawphil-nature/)
 
 *经典文献（Classic references）：*
+- Langdell, C. C. (1879) *A Selection of Cases on the Law of Contracts*, 2nd edn, Boston: Little, Brown. [→ Internet Archive](https://archive.org/details/cu31924018826721)
 - Holmes, O. W. (1897) 'The Path of the Law', *Harvard Law Review*, vol. 10, pp. 457-478. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr10&start_page=457&collection=journals)
-- Pound, R. (1910) 'Law in Books and Law in Action', *Harvard Law Review*, vol. 23, pp. 211-224. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr23&start_page=211&collection=journals)
+- Pound, R. (1908) 'Mechanical Jurisprudence', *Columbia Law Review*, vol. 8, pp. 605-623. [→ doi.org](https://doi.org/10.2307/1110048)
 - Llewellyn, K. N. (1930) *The Bramble Bush: On Our Law and Its Study*, New York: Oceana. [→ Open Library](https://openlibrary.org/works/OL8045473W)
-- Llewellyn, K. N. (1931) 'Some Realism about Realism: Responding to Dean Pound', *Harvard Law Review*, vol. 44, pp. 1222-1264. [→ doi.org](https://doi.org/10.2307/1334702)
 - Frank, J. (1930) *Law and the Modern Mind*, New York: Brentano's. [→ Open Library](https://openlibrary.org/works/OL6664416W)
-- Pound, R. (1923) *Interpretations of Legal History*, New York: Macmillan. [→ Open Library](https://openlibrary.org/works/OL1177631W)
+- Grey, T. C. (1983) 'Langdell's Orthodoxy', *University of Pittsburgh Law Review*, vol. 45, pp. 1-53. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/pitt45&start_page=1&collection=journals)
+- Schauer, F. (1988) 'Formalism', *Yale Law Journal*, vol. 97, pp. 509-548. [→ Yale Law School open repository](https://openyls.law.yale.edu/bitstream/handle/20.500.13051/16526/31_97YaleLJ509_March1988_.pdf)
 
 **26. 法律现实主义** —— 美国法律现实主义（霍姆斯、卢埃林、弗兰克）；斯堪的纳维亚现实主义（海格斯特伦、奥利维克罗纳、罗斯）；行动中的法律与书本上的法律。
 
