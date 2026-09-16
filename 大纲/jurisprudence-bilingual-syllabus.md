@@ -38,7 +38,7 @@ On successful completion of the course, a student should be able to:
 1. **识别并解释** 法理学的核心问题，以及主要法学流派给出的主要答案。
 
    **Identify and explain** the central questions of jurisprudence and the principal answers offered by the major schools of legal thought.
-2. **区分并比较** 自然法理论、法律实证主义、法律现实主义、解释主义与批判性法学进路，并援引其代表人物与文本。
+2. **区分并比较** 自然法理论、法律实证主义、法律现实主义、解释主义与批判法学进路，并援引其代表人物与文本。
 
    **Distinguish and compare** natural law theory, legal positivism, legal realism, interpretivism, and critical approaches to law, with reference to their leading proponents and texts.
 3. **分析** 法律与道德、政治和社会之间的关系，并评价关于法律效力与法律权威的各种相互竞争的主张。
@@ -519,9 +519,9 @@ All components must be attempted to pass the course. The mid-term essay develops
 
 ### 第六部分 · 现实主义与社会学进路（Part VI — Realism and Sociological Approaches）
 
-**25. 法律形式主义对法律现实主义** —— 兰代尔的法律科学理想与判例教学法：法律作为由少数基本原则构成的体系，经由判例归纳习得；庞德对“机械法理学”的批判；霍姆斯“法律的生命从来不是逻辑，而是经验”；现实主义对规则决定论的怀疑——书本上的法律与行动中的法律；格雷对兰代尔正统的重构与肖尔为形式主义的辩护。
+**25. 法律形式主义对法律现实主义** —— 二十世纪美国法学的主轴论战：形式主义主张法律为自足的逻辑体系，裁判可由规则与先例演绎而出（兰代尔的法律科学与判例教学法）；现实主义反击规则并不能决定案件——“书本上的法律”对“行动中的法律”，法官实则在造法（霍姆斯、庞德、卢埃林、弗兰克）；论战的后续重估：格雷重构兰代尔正统，肖尔为形式主义辩护。
 
-**25. Legal Formalism vs. Legal Realism** — Langdell's ideal of law as a science and the case method: law as a system of a few fundamental principles, learned inductively through cases; Pound's critique of "mechanical jurisprudence"; Holmes's dictum that "the life of the law has not been logic: it has been experience"; realist scepticism about rule determinacy — law in books versus law in action; Grey's reconstruction of the Langdellian orthodoxy and Schauer's defence of formalism.
+**25. Legal Formalism vs. Legal Realism** — The defining debate of twentieth-century American jurisprudence: formalism's claim that law is an autonomous logical system in which adjudication proceeds deductively from rules and precedent (Langdell's legal science and the case method); the realist counter-attack that rules do not decide cases — law in books versus law in action, with judges as lawmakers in fact (Holmes, Pound, Llewellyn, Frank); later reassessments of the debate: Grey's reconstruction of the Langdellian orthodoxy and Schauer's defence of formalism.
 
 *延伸阅读（Further reading）：*
 - [Legal Realism (Wex, Cornell LII)](https://www.law.cornell.edu/wex/legal_realism)
@@ -779,7 +779,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 - Marx, K. (1970) *Critique of Hegel's 'Philosophy of Right'*, ed. J. O'Malley, trans. A. Jolin and J. O'Malley, Cambridge: Cambridge University Press. [→ Open Library](https://openlibrary.org/works/OL38870718W)
 - Smith, S. B. (1989) 'What is "Right" in Hegel's *Philosophy of Right*?', *American Political Science Review*, vol. 83, no. 1, pp. 3–18. [→ doi.org](https://doi.org/10.2307/1956431)
 
-**39. 批判性法学进路** —— 马克思主义法律理论；批判法律研究运动；女性主义法理学；批判种族理论。
+**39. 批判法学进路** —— 马克思主义法律理论；批判法律研究运动；女性主义法理学；批判种族理论。
 
 **39. Critical Approaches to Law** — Marxist legal theory; the Critical Legal Studies movement; feminist jurisprudence; critical race theory.
 
