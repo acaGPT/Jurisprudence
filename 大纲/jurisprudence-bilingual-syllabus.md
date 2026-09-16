@@ -419,7 +419,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 - Hart, H. L. A. (2012) *The Concept of Law*, 3rd edn, Oxford: Oxford University Press. [→ Open Library](https://openlibrary.org/works/OL1420755W)
 - Hart, H. L. A. (1954) 'Definition and Theory in Jurisprudence', *Law Quarterly Review*, vol. 70, pp. 37–60. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/lqr70&start_page=37&collection=journals)
 - Hart, H. L. A. (1948–49) 'The Ascription of Responsibility and Rights', *Proceedings of the Aristotelian Society*, vol. 49, pp. 171–194. [→ doi.org](https://doi.org/10.1093/aristotelian/49.1.171)
-- Hart, H. L. A. (1968) *Punishment and Responsibility: Essays in the Philosophy of Law*, Oxford: Clarendon Press. [→ Open Library](https://openlibrary.org/works/OL1420754W)
+- Lacey, N. (2004) *A Life of H. L. A. Hart: The Nightmare and the Noble Dream*, Oxford: Oxford University Press. [→ Open Library](https://openlibrary.org/works/OL2240096W)
 - Shapiro, S. J. (2011) *Legality*, Cambridge, MA: Harvard University Press. [→ Open Library](https://openlibrary.org/works/OL19364379W)
 
 **20. 哈特之后的实证主义** —— 拉兹论权威与排他性理由；包容性实证主义与排他性实证主义；渊源命题。
@@ -584,9 +584,9 @@ All components must be attempted to pass the course. The mid-term essay develops
 *经典文献（Classic references）：*
 - Llewellyn, K. N. (1931) 'Some Realism about Realism: Responding to Dean Pound', *Harvard Law Review*, vol. 44, pp. 1222-1264. [→ doi.org](https://doi.org/10.2307/1334702)
 - Pound, R. (1910) 'Law in Books and Law in Action', *Harvard Law Review*, vol. 23, pp. 211-224. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr23&start_page=211&collection=journals)
-- Holmes, O. W. (1897) 'The Path of the Law', *Harvard Law Review*, vol. 10, pp. 457-478. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr10&start_page=457&collection=journals)
-- Llewellyn, K. N. (1930) *The Bramble Bush: On Our Law and Its Study*, New York: Oceana. [→ Open Library](https://openlibrary.org/works/OL8045473W)
-- Frank, J. (1930) *Law and the Modern Mind*, New York: Brentano's. [→ Open Library](https://openlibrary.org/works/OL6664416W)
+- Cardozo, B. N. (1921) *The Nature of the Judicial Process*, New Haven: Yale University Press. [→ Internet Archive](https://archive.org/details/natureofjudicial00card_0)
+- Pound, R. (1931) 'The Call for a Realist Jurisprudence', *Harvard Law Review*, vol. 44, pp. 697-711. [→ doi.org](https://doi.org/10.2307/1331791)
+- Cohen, F. S. (1935) 'Transcendental Nonsense and the Functional Approach', *Columbia Law Review*, vol. 35, pp. 809-849. [→ doi.org](https://doi.org/10.2307/1116300)
 - Pound, R. (1923) *Interpretations of Legal History*, New York: Macmillan. [→ Open Library](https://openlibrary.org/works/OL1177631W)
 - Llewellyn, K. N. (1960) *The Common Law Tradition: Deciding Appeals*, Boston: Little, Brown. [→ Open Library](https://openlibrary.org/works/OL508316W)
 
@@ -716,7 +716,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 *经典文献（Classic references）：*
 - Cohen, G. A. (1989) 'On the Currency of Egalitarian Justice', *Ethics*, vol. 99, pp. 906-944. [→ doi.org](https://doi.org/10.1086/293126)
 - Cohen, G. A. (2008) *Rescuing Justice and Equality*, Cambridge, MA: Harvard University Press. [→ Open Library](https://openlibrary.org/works/OL21738454W)
-- Rawls, J. (1971) *A Theory of Justice*, Cambridge, MA: Harvard University Press. [→ Open Library](https://openlibrary.org/works/OL30310W)
+- Roemer, J. E. (1996) *Theories of Distributive Justice*, Cambridge, MA: Harvard University Press. [→ Open Library](https://openlibrary.org/works/OL2710725W)
 - Frankfurt, H. (1987) 'Equality as a Moral Ideal', *Ethics*, vol. 98, pp. 21-43. [→ doi.org](https://doi.org/10.1086/292913)
 - Dworkin, R. (2000) *Sovereign Virtue: The Theory and Practice of Equality*, Cambridge, MA: Harvard University Press. [→ Open Library](https://openlibrary.org/works/OL8011689W)
 - Sen, A. (1980) 'Equality of What?', in S. McMurrin (ed.) *The Tanner Lectures on Human Values*, vol. I, Salt Lake City: University of Utah Press, pp. 195-220. [→ Tanner Lectures](https://tannerlectures.utah.edu/equality-of-what/)
@@ -738,7 +738,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 - Devlin, P. (1959) 'The Enforcement of Morals', *Proceedings of the British Academy*, vol. 45, pp. 129-151. [→ open access](https://law.nus.edu.sg/sjls/wp-content/uploads/sites/14/2024/07/52-1959-1-mal-dec-376.pdf)
 - United Kingdom, Committee on Homosexual Offences and Prostitution (1957) *Report of the Committee on Homosexual Offences and Prostitution* (Wolfenden Report, Cmnd 247). [→ archive.org](https://archive.org/details/wolfendenreport0000unse)
 - Dworkin, R. (1966) 'Lord Devlin and the Enforcement of Morals', *Yale Law Journal*, vol. 75, pp. 986-1006. [→ doi.org](https://doi.org/10.2307/794893)
-- Mill, J. S. (1859) *On Liberty*, London: John W. Parker. [→ Project Gutenberg](https://www.gutenberg.org/ebooks/34982)
+- Stephen, J. F. (1873) *Liberty, Equality, Fraternity*, London: Smith, Elder. [→ Internet Archive](https://archive.org/details/libertyequalityf0000jame)
 
 ### 第八部分 · 批判性与跨学科进路（Part VIII — Critical and Interdisciplinary Approaches）
 
@@ -779,7 +779,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 - Marx, K. (1970) *Critique of Hegel's 'Philosophy of Right'*, ed. J. O'Malley, trans. A. Jolin and J. O'Malley, Cambridge: Cambridge University Press. [→ Open Library](https://openlibrary.org/works/OL38870718W)
 - Smith, S. B. (1989) 'What is "Right" in Hegel's *Philosophy of Right*?', *American Political Science Review*, vol. 83, no. 1, pp. 3–18. [→ doi.org](https://doi.org/10.2307/1956431)
 
-**39. 批判法学进路** —— 马克思主义法律理论；批判法律研究运动；女性主义法理学；批判种族理论。
+**39. 批判法学进路** —— 马克思主义法律理论；批判法学运动；女性主义法理学；批判种族理论。
 
 **39. Critical Approaches to Law** — Marxist legal theory; the Critical Legal Studies movement; feminist jurisprudence; critical race theory.
 
@@ -886,7 +886,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 
 *经典文献（Classic references）：*
 - Dicey, A. V. (1885) *An Introduction to the Study of the Law of the Constitution*, London: Macmillan. [→ Open Library](https://openlibrary.org/works/OL2980860W)
-- Hayek, F. A. (1960) *The Constitution of Liberty*, London: Routledge. [→ Open Library](https://openlibrary.org/works/OL1164995W)
+- Tamanaha, B. Z. (2004) *On the Rule of Law: History, Politics, Theory*, Cambridge: Cambridge University Press. [→ Open Library](https://openlibrary.org/works/OL13635746W)
 - Raz, J. (1977) 'The Rule of Law and its Virtue', *Law Quarterly Review*, vol. 93, pp. 195-211. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/lqr93&start_page=195&collection=journals)
 - Fuller, L. L. (1964) *The Morality of Law*, New Haven: Yale University Press. [→ Open Library](https://openlibrary.org/works/OL3246181W)
 - Dworkin, R. (1985) *A Matter of Principle*, Oxford: Clarendon Press. [→ Open Library](https://openlibrary.org/works/OL2734969W)
@@ -921,7 +921,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 - [The Form of Transnational Law (Sequência, 2021)](https://doi.org/10.5007/2177-7055.2021.e82466)
 
 *经典文献（Classic references）：*
-- Griffiths, J. (1986) 'What is Legal Pluralism?', *Journal of Legal Pluralism and Unofficial Law*, vol. 18, no. 24, pp. 1-55. [→ doi.org](https://doi.org/10.1080/07329113.1986.10756387)
+- Berman, P. S. (2012) *Global Legal Pluralism: A Jurisprudence of Law Beyond Borders*, Cambridge: Cambridge University Press. [→ Open Library](https://openlibrary.org/works/OL16576719W)
 - Santos, B. de S. (2002) *Toward a New Legal Common Sense*, 2nd edn, London: Butterworths. [→ Open Library](https://openlibrary.org/works/OL21045547W)
 - Merry, S. E. (1988) 'Legal Pluralism', *Law & Society Review*, vol. 22, pp. 869-896. [→ doi.org](https://doi.org/10.2307/3053638)
 - Tamanaha, B. Z. (1993) 'The Folly of the Social Scientific Concept of Legal Pluralism', *Journal of Law and Society*, vol. 20, pp. 192-217. [→ doi.org](https://doi.org/10.2307/1410167)
