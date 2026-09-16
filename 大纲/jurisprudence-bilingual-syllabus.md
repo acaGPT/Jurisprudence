@@ -2,7 +2,7 @@
 
 > **阅读材料说明。** 以下每一讲之后均附两个板块。*延伸阅读*（Further reading）列出开放获取的阅读文章；所有链接均已核验为可访问（HTTP 200），并于 2026 年 9 月 12—14 日完成内容比对。*经典文献*（Classic references）列出 5—7 部权威学术成果——期刊论文、专著与教科书——并附完整引注信息。课程内容和阅读材料会随着学术与实践发展的需求而不断更新。
 >
-> **Readings.** Each lecture below is followed by two blocks. *Further reading* lists open-access reading articles; every link was verified as accessible (HTTP 200) and content-checked on 12–14 September 2026. *Classic references* lists 5–7 works of established scholarship — journal articles, monographs, and textbooks — with full citation details.
+> **Readings.** Each lecture below is followed by two blocks. *Further reading* lists open-access reading articles; every link was verified as accessible (HTTP 200) and content-checked on 12–14 September 2026. *Classic references* lists 5–7 works of established scholarship — journal articles, monographs, and textbooks — with full citation details. Course content and readings will be updated continually as scholarship and practice evolve.
 
 ## 1. 课程信息（Course Information）
 
@@ -19,7 +19,7 @@
 
 法理学是对法律的一般性哲学研究。它提出跨越一切具体法律体系的概念性与规范性追问：法律是什么？法律必须是强制性的吗？法律与道德之间是否存在必然联系？法律能否对其约束对象主张权威？法律与正义之间是何种关系？等等。一言以蔽之，法理学研究的是法律的第一性原理（复数）。
 
-Jurisprudence is the philosophical study of law in general. It asks conceptual and normative questions that cut across all particular legal systems: What is law? Must law be coercive? Is there a necessary connection between law and morality? Can law claim authority over those it binds? What is the relationship between law and justice?
+Jurisprudence is the philosophical study of law in general. It asks conceptual and normative questions that cut across all particular legal systems: What is law? Must law be coercive? Is there a necessary connection between law and morality? Can law claim authority over those it binds? What is the relationship between law and justice? In short, jurisprudence investigates the first principles of law.
 
 本课程沿两条互补的线索展开。**概念线索**经由主要法学流派考察法律的本质、法律规范、法律推理与法律效力。**历史线索**将这些流派置于其思想脉络之中，追溯西方与中国法律理论自古及今的发展。
 
@@ -27,7 +27,7 @@ The course proceeds along two complementary tracks. The **conceptual track** exa
 
 法理学的最初学术传统来自于西方，但其覆盖范围早已超出了原产地。课程结束时，学生应能批判性地参与法理学的核心论争，将本国法律教义置于更广阔的理论框架中加以定位，并就法律的本质与目的构建并辩护有理据的论证。
 
-By the end of the course, students will be able to engage critically with the central debates of jurisprudence, to situate domestic legal doctrine within a broader theoretical framework, and to construct and defend reasoned arguments about the nature and purpose of law.
+The earliest scholarly tradition of jurisprudence is Western, but its reach has long extended beyond its place of origin. By the end of the course, students will be able to engage critically with the central debates of jurisprudence, to situate domestic legal doctrine within a broader theoretical framework, and to construct and defend reasoned arguments about the nature and purpose of law.
 
 ## 3. 学习成果（Learning Outcomes）
 
@@ -519,7 +519,22 @@ All components must be attempted to pass the course. The mid-term essay develops
 
 ### 第六部分 · 现实主义与社会学进路（Part VI — Realism and Sociological Approaches）
 
-**25. Legal Formalism vs. Legal Realism**
+**25. 法律形式主义对法律现实主义** —— 形式主义的机械司法观与兰代尔的法律科学；现实主义对规则决定论与“自动售货机式”司法的批判；演绎推理的限度与法官实际如何裁判。
+
+**25. Legal Formalism vs. Legal Realism** — The formalist picture of mechanical jurisprudence and Langdell's legal science; the realist critique of rule determinacy and "slot-machine" adjudication; the limits of deductive reasoning and how judges actually decide cases.
+
+*延伸阅读（Further reading）：*
+- [Legal Realism (Wex, Cornell LII)](https://www.law.cornell.edu/wex/legal_realism)
+- [Naturalism in Legal Philosophy (SEP)](https://plato.stanford.edu/entries/lawphil-naturalism/)
+- [The Nature of Law (SEP)](https://plato.stanford.edu/entries/lawphil-nature/)
+
+*经典文献（Classic references）：*
+- Holmes, O. W. (1897) 'The Path of the Law', *Harvard Law Review*, vol. 10, pp. 457-478. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr10&start_page=457&collection=journals)
+- Pound, R. (1910) 'Law in Books and Law in Action', *Harvard Law Review*, vol. 23, pp. 211-224. [→ HeinOnline](https://heinonline.org/HOL/Page?handle=hein.journals/hlr23&start_page=211&collection=journals)
+- Llewellyn, K. N. (1930) *The Bramble Bush: On Our Law and Its Study*, New York: Oceana. [→ Open Library](https://openlibrary.org/works/OL8045473W)
+- Llewellyn, K. N. (1931) 'Some Realism about Realism: Responding to Dean Pound', *Harvard Law Review*, vol. 44, pp. 1222-1264. [→ doi.org](https://doi.org/10.2307/1334702)
+- Frank, J. (1930) *Law and the Modern Mind*, New York: Brentano's. [→ Open Library](https://openlibrary.org/works/OL6664416W)
+- Pound, R. (1923) *Interpretations of Legal History*, New York: Macmillan. [→ Open Library](https://openlibrary.org/works/OL1177631W)
 
 **26. 法律现实主义** —— 美国法律现实主义（霍姆斯、卢埃林、弗兰克）；斯堪的纳维亚现实主义（海格斯特伦、奥利维克罗纳、罗斯）；行动中的法律与书本上的法律。
 
@@ -918,7 +933,7 @@ All components must be attempted to pass the course. The mid-term essay develops
 
 - **学术诚信。** 所有提交的作业必须为学生本人独立完成（当然可以使用工具）。抄袭与未经许可的合作属严重学术违规，将依本校规定处理。
 
-  **Academic integrity.** All submitted work must be the student's own. Plagiarism and unauthorised collaboration are serious academic offences and will be dealt with under the institution's regulations.
+  **Academic integrity.** All submitted work must be the student's own (the use of tools is, of course, permitted). Plagiarism and unauthorised collaboration are serious academic offences and will be dealt with under the institution's regulations.
 - **出勤。** 学生应按时出席讲授与研讨。研讨参与计入考核，缺席无法获得该项成绩。
 
   **Attendance.** Regular attendance at lectures and seminars is expected. Seminar participation is assessed and cannot be earned by absence.
