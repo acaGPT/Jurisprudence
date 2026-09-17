@@ -18,7 +18,13 @@ cd Jurisprudence.wiki          # wiki 仓库的默认分支是 master
 git commit -am "docs: 更新课程大纲" && git push origin master
 ```
 
+## 许可证
+
+本项目以 MIT 许可证发布，版权归 acaGPT（2026）所有。许可证全文见 [LICENSE](LICENSE)。
+
 ## 版本
+
+- v1.2.0 — 新增 MIT 许可证（版权 2026 acaGPT）；README 增加许可证说明
 
 - v1.1.0 — 大纲迁出 Code 页面、改由 Wiki 维护；README 增加 Wiki 指引
 - v1.0.4 — 重复文献替换为更贴合各讲主题的经典作品（链接均经核验）
