@@ -1,6 +1,6 @@
 # Jurisprudence 法理学
 
-《法理学》课程教学资料 by LING BIN
+《法理学》课程教学资料 by iLINGBIN
 
 ## Wiki 指引
 
