@@ -18,6 +18,13 @@ cd Jurisprudence.wiki          # wiki 仓库的默认分支是 master
 git commit -am "docs: 更新课程大纲" && git push origin master
 ```
 
+## 配套工具仓库
+
+为大纲中附有作者介绍链接的条目自动配设肖像小头像的流水线（取图、核验、插入、署名），
+独立维护于：
+
+- [jurisprudence-syllabus-portraits](https://github.com/acaGPT/jurisprudence-syllabus-portraits) — 肖像抓取与插入工具链（Python）
+
 ## 许可证
 
 本项目以 MIT 许可证发布，版权归 acaGPT（2026）所有。许可证全文见 [LICENSE](LICENSE)。
