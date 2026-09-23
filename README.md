@@ -7,7 +7,10 @@
 本仓库的 GitHub Wiki 作为唯一维护位置：
 
 - [Wiki 首页](https://github.com/acaGPT/Jurisprudence/wiki) — 页面导航入口
-- [课程大纲](https://github.com/acaGPT/Jurisprudence/wiki/%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2) — 中英双语完整大纲，含课程说明、学习成果、授课与考核方式，以及各讲核心议题、延伸阅读与经典文献
+- [课程大纲](https://github.com/acaGPT/Jurisprudence/wiki/Course-Syllabus) — 中英双语完整大纲，含课程说明、学习成果、授课与考核方式，以及各讲核心议题、延伸阅读与经典文献
+- [2. 法理学是什么](https://github.com/acaGPT/Jurisprudence/wiki/PI.2.-What-is-Jurisprudence) — 第 2 讲课前预览
+- [译名词典](https://github.com/acaGPT/Jurisprudence/wiki/Glossary) — 书名、人名与术语的统一译名
+- [肖像图片来源](https://github.com/acaGPT/Jurisprudence/wiki/Portrait-Credits) — 延伸阅读所引肖像的许可与署名
 
 在本地编辑并发布 wiki 页面：
 
@@ -25,11 +28,21 @@ git commit -am "docs: 更新课程大纲" && git push origin master
 
 - [jurisprudence-syllabus-portraits](https://github.com/acaGPT/jurisprudence-syllabus-portraits) — 肖像抓取与插入工具链（Python）
 
-## 许可证
+## 版权协议（Licence）
 
-本项目以 MIT 许可证发布，版权归 acaGPT（2026）所有。许可证全文见 [LICENSE](LICENSE)。
+本仓库由 iLINGBIN 编写，托管于 acaGPT 组织，采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。您可自由分享与改编本作品，惟须：注明版权所有（iLINGBIN）和原始出处（acaGPT）；不得用于商业目的；若基于本作品进行演绎，须以相同协议发布。各讲「延伸阅读」所引作者肖像按其各自标注的许可使用（详见 [肖像图片来源](Portrait-Credits)），不适用本统一协议。
+
+© 2026 iLINGBIN. 保留本作品的署名权。
+
+This repository is authored by iLINGBIN and hosted by the acaGPT organisation, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the material, provided that you: acknowledge copyright (iLINGBIN) and give credit (acaGPT); do not use it for commercial purposes; and, if you remix or build upon it, distribute your contributions under the same licence. Portraits cited in the Further reading sections are used under their respective licences (see [Portrait Credits](Portrait-Credits)) and are not covered by this licence.
+
+© 2026 iLINGBIN. Moral rights of attribution reserved.
+
+许可证全文见 [LICENSE](LICENSE)。
 
 ## 版本
+
+- v1.3.0 — 许可证由 MIT 改为 CC BY-NC-SA 4.0（与 Wiki 各页版权协议一致，署名 iLINGBIN）；README 版权段改为与大纲同体例的中英双语；补全 Wiki 页面指引（课前预览、译名词典、肖像图片来源）
 
 - v1.2.0 — 新增 MIT 许可证（版权 2026 acaGPT）；README 增加许可证说明
 
