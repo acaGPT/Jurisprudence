@@ -40,6 +40,8 @@ This repository is authored by iLINGBIN and hosted by the acaGPT organisation, a
 
 许可证全文见 [LICENSE](LICENSE)。
 
+说明：GitHub 的许可识别库不含非商业性知识共享协议，仓库侧边栏会显示为「Other」；以上条款及 [LICENSE](LICENSE) 官方全文为准。
+
 ## 版本
 
 - v1.3.0 — 许可证由 MIT 改为 CC BY-NC-SA 4.0（与 Wiki 各页版权协议一致，署名 iLINGBIN）；README 版权段改为与大纲同体例的中英双语；补全 Wiki 页面指引（课前预览、译名词典、肖像图片来源）
