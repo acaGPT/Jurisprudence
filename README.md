@@ -8,9 +8,7 @@
 
 - [Wiki 首页](https://github.com/acaGPT/Jurisprudence/wiki) — 页面导航入口
 - [课程大纲](https://github.com/acaGPT/Jurisprudence/wiki/Course-Syllabus) — 中英双语完整大纲，含课程说明、学习成果、授课与考核方式，以及各讲核心议题、延伸阅读与经典文献
-- [2. 法理学是什么](https://github.com/acaGPT/Jurisprudence/wiki/PI.2.-What-is-Jurisprudence) — 第 2 讲课前预览
 - [译名词典](https://github.com/acaGPT/Jurisprudence/wiki/Glossary) — 书名、人名与术语的统一译名
-- [肖像图片来源](https://github.com/acaGPT/Jurisprudence/wiki/Portrait-Credits) — 延伸阅读所引肖像的许可与署名
 
 在本地编辑并发布 wiki 页面：
 
@@ -51,6 +49,6 @@ This repository is authored by iLINGBIN and hosted by the acaGPT organisation, a
 - v1.1.0 — 大纲迁出 Code 页面、改由 Wiki 维护；README 增加 Wiki 指引
 - v1.0.4 — 重复文献替换为更贴合各讲主题的经典作品（链接均经核验）
 - v1.0.3 — 第 25 讲描述改为以形式主义—现实主义论战为主旨
-- v1.0.2 — 扩充第 25 讲：重写双语描述，新增 Langdell、Pound《机械法理学》、Grey、Schauer 等 4 条形式主义侧经典文献（链接均已核验）
+- v1.0.2 — 扩充第 25 讲：重写双语描述，新增 Langdell、Pound《机械论法理学》、Grey、Schauer 等 4 条形式主义侧经典文献（链接均已核验）
 - v1.0.1 — 补全 4 处未译成英文的中文语句，并补全第 25 讲（法律形式主义对法律现实主义）完整条目
 - v1.0.0 — 收录《法理学》双语课程大纲
