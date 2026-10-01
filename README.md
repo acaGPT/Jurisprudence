@@ -28,19 +28,21 @@ git commit -am "docs: 更新课程大纲" && git push origin master
 
 ## 版权协议（Licence）
 
-本仓库由 iLINGBIN 编写，托管于 acaGPT 组织，采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。您可自由分享与改编本作品，惟须：注明版权所有（iLINGBIN）和原始出处（acaGPT）；不得用于商业目的；若基于本作品进行演绎，须以相同协议发布。各讲「延伸阅读」所引作者肖像按其各自标注的许可使用（详见 [肖像图片来源](Portrait-Credits)），不适用本统一协议。
+本仓库由 iLINGBIN 编写，版权依「保留所有权利」原则处理：未获书面许可，不得以复制、改写、汇编、翻译、上传网络、制作衍生讲义、商业性使用等方式利用。课堂内为教学目的之讲授、投影、复印，属许可范围内之使用；公开出版、网络公开发布、商业培训或二次改编须先行取得书面同意。各讲「延伸阅读」所引作者肖像按其各自标注的许可使用（详见 [肖像图片来源](Portrait-Credits)）。
 
-© 2026 iLINGBIN. 保留本作品的署名权。
+© 2026 iLINGBIN. 保留所有权利。
 
-This repository is authored by iLINGBIN and hosted by the acaGPT organisation, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the material, provided that you: acknowledge copyright (iLINGBIN) and give credit (acaGPT); do not use it for commercial purposes; and, if you remix or build upon it, distribute your contributions under the same licence. Portraits cited in the Further reading sections are used under their respective licences (see [Portrait Credits](Portrait-Credits)) and are not covered by this licence.
+This repository is authored by iLINGBIN. All rights reserved: without prior written permission, the material may not be reproduced, adapted, compiled, translated, uploaded online, made into derivative teaching materials, or used commercially. Lecturing, projection and photocopying for teaching purposes within the classroom fall within the permitted scope; public publication, online disclosure, commercial training or secondary adaptation require prior written consent. Portraits cited in the Further reading sections are used under their respective licences (see [Portrait Credits](Portrait-Credits)).
 
-© 2026 iLINGBIN. Moral rights of attribution reserved.
+© 2026 iLINGBIN. All Rights Reserved.
 
-许可证全文见 [LICENSE](LICENSE)。
+授权条款全文见 [LICENSE](LICENSE)。
 
-说明：GitHub 的许可识别库不含非商业性知识共享协议，仓库侧边栏会显示为「Other」；以上条款及 [LICENSE](LICENSE) 官方全文为准。
+说明：本仓库不设对外开放的使用许可，上述条款即为全部授权范围；GitHub 的许可识别库不收录「保留所有权利」声明，仓库侧边栏通常显示为「Other」。
 
 ## 版本
+
+- v1.4.0 — 版权协议由 CC BY-NC-SA 4.0 改为「保留所有权利」（未获书面许可不得利用，课堂内教学使用属许可范围）；LICENSE 去除 CC 官方全文，署名统一为 iLINGBIN
 
 - v1.3.0 — 许可证由 MIT 改为 CC BY-NC-SA 4.0（与 Wiki 各页版权协议一致，署名 iLINGBIN）；README 版权段改为与大纲同体例的中英双语；补全 Wiki 页面指引（课前预览、译名词典、肖像图片来源）
 
